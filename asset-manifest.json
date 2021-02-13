@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/IntroToReact/static/css/main.3e91f64f.chunk.css",
+    "main.js": "/IntroToReact/static/js/main.3b54e1e4.chunk.js",
+    "main.js.map": "/IntroToReact/static/js/main.3b54e1e4.chunk.js.map",
+    "runtime-main.js": "/IntroToReact/static/js/runtime-main.087b1822.js",
+    "runtime-main.js.map": "/IntroToReact/static/js/runtime-main.087b1822.js.map",
+    "static/js/2.c2c52fa3.chunk.js": "/IntroToReact/static/js/2.c2c52fa3.chunk.js",
+    "static/js/2.c2c52fa3.chunk.js.map": "/IntroToReact/static/js/2.c2c52fa3.chunk.js.map",
+    "static/js/3.88d91d51.chunk.js": "/IntroToReact/static/js/3.88d91d51.chunk.js",
+    "static/js/3.88d91d51.chunk.js.map": "/IntroToReact/static/js/3.88d91d51.chunk.js.map",
+    "index.html": "/IntroToReact/index.html",
+    "static/css/main.3e91f64f.chunk.css.map": "/IntroToReact/static/css/main.3e91f64f.chunk.css.map",
+    "static/js/2.c2c52fa3.chunk.js.LICENSE.txt": "/IntroToReact/static/js/2.c2c52fa3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.087b1822.js",
+    "static/js/2.c2c52fa3.chunk.js",
+    "static/css/main.3e91f64f.chunk.css",
+    "static/js/main.3b54e1e4.chunk.js"
+  ]
+}
